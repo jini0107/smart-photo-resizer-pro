@@ -1,0 +1,7 @@
+{
+  "name": "Smart Photo Resizer Pro",
+  "description": "A high-performance web application for resizing photos to official standards (Passport, ID card, Driver's license) with custom dimension support and high-quality export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
